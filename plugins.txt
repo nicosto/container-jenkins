@@ -9,4 +9,4 @@ prometheus:2.0.8
 credentials:2.3.15
 plain-credentials:1.7
 dependency-track:3.1.0
-pipeline-utility-steps:2.6.1
+pipeline-utility-steps:2.11.0
