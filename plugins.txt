@@ -1,4 +1,4 @@
-kubernetes:1.29.0
+kubernetes:1.31.1
 workflow-job:2.42
 workflow-aggregator:2.6
 git:4.6.0
