@@ -1,5 +1,5 @@
 kubernetes:1.31.1
-workflow-job:2.42
+workflow-job:1239.v71b_b_a_124a_725
 workflow-aggregator:2.6
 git:4.10.1
 job-dsl:1.78
