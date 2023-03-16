@@ -1,7 +1,7 @@
 kubernetes:1.31.1
 workflow-job:2.42
 workflow-aggregator:2.6
-git:4.10.1
+git:4.14.3
 job-dsl:1.78
 configuration-as-code:1.55
 kubernetes-credentials-provider:0.20
