@@ -5,7 +5,7 @@ git:4.10.1
 job-dsl:1.78
 configuration-as-code:1.55
 kubernetes-credentials-provider:0.20
-prometheus:2.0.10
+prometheus:2.5.3
 credentials:2.6.2
 plain-credentials:1.7
 pipeline-utility-steps:2.11.0
