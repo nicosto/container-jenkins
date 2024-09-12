@@ -4,7 +4,7 @@ workflow-aggregator:2.6
 git:4.10.1
 job-dsl:1.78
 configuration-as-code:1.55
-kubernetes-credentials-provider:0.20
+kubernetes-credentials-provider:1.262.v2670ef7ea_0c5
 prometheus:2.0.10
 credentials:2.6.2
 plain-credentials:1.7
