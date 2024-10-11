@@ -8,6 +8,6 @@ kubernetes-credentials-provider:0.20
 prometheus:2.0.10
 credentials:2.6.2
 plain-credentials:1.7
-pipeline-utility-steps:2.11.0
+pipeline-utility-steps:2.18.0
 dependency-track:4.0.0
-pipeline-utility-steps:2.6.1
+pipeline-utility-steps:2.18.0
